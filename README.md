@@ -8,7 +8,7 @@ https://pauloaapereira.medium.com/jetpack-compose-pulsating-effect-4b9f2928d31a
 
 ## License
 ```
-Copyright 2020 The Android Open Source Project
+Copyright 2020 Paulo Pereira
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
